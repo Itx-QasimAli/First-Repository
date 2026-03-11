@@ -4,3 +4,5 @@ This is the first repository of Qasim Ali.
 Qasim Ali
 # Student
 Qaim Ahmad
+Umar Akmal
+
